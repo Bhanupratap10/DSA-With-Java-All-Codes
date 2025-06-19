@@ -7,7 +7,7 @@ public class Clear_IthBit {
     }
 
     public static void main(String[] args) {
-        System.out.println(ClearIthBit(10, 2));
+        System.out.println(ClearIthBit(12, 2));
         
     }
 }
