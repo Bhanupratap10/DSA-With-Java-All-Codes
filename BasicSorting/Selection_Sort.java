@@ -27,7 +27,7 @@ public class Selection_Sort {
     }
 
     public static void main(String[] args) {
-        int arr[] = {5, 3, 4, 2, 1};
+        int arr[] = {6, 5, 3, 4, 2, 1};
         SelectionSort(arr);
         printArr(arr);
         
