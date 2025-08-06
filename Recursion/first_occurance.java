@@ -2,10 +2,10 @@ package Recursion;
 
 public class first_occurance {
     public static int firstOccurance(int arr[], int key, int i){
-        if(i == arr.length) {
+        if(i == arr.length) {  
             return -1;
         }
-        if(arr[i] == key) {
+        if(arr[i] == key) {  // check arr of i key ke = h ki nhi
             return i;
         }
 
