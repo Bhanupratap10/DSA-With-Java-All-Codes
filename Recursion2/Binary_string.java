@@ -12,9 +12,10 @@ public class Binary_string {
 
         // kaam 
 
-        printBinaryString(n-1, 0, str.append(0));
+        printBinaryString(n-1, 0, str+"0");
+        
         if(lastPlace == 0) {
-            printBinaryString(n-1, 1, str.append(1));
+            printBinaryString(n-1, 1, str+"1");
         }
 
     }
