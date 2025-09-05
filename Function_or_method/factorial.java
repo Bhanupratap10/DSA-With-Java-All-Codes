@@ -24,7 +24,7 @@ public class factorial {
     
 
     public static void main(String[] args) {
-        System.out.println(binCoeff(6,3));
+        System.out.println(binCoeff(3,3));
     }
     
 }
