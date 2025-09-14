@@ -1,7 +1,7 @@
 public class codejava {
     public static void main(String[] args) {
         int A = 1;
-        int B = 8;
+        int B = 10;
 
         if (A >= B){
             System.out.println("A largest of 2");
