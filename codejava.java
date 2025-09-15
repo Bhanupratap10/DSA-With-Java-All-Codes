@@ -1,6 +1,6 @@
 public class codejava {
     public static void main(String[] args) {
-        int A = 1;
+        int A = 15;
         int B = 10;
 
         if (A >= B){
