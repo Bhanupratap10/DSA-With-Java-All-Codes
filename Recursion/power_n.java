@@ -10,6 +10,6 @@ public class power_n {
     }
     
     public static void main(String[] args) {
-        System.out.println(power(2, 10));
+        System.out.println(power(2, 12));
     }
 }
