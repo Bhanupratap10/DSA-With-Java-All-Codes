@@ -5,7 +5,7 @@ public class datatyp {
       char ch = 'a';
       System.out.println(ch);
       boolean var = false;
-      float price = 15;
+      float price = 99;
       int number = 25;
       //long
       //double
