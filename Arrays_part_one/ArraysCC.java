@@ -16,7 +16,7 @@ public class ArraysCC {
         marks[2] = sc.nextInt(); // math
 
 
-        System.out.println(" phy : " + marks[4]);
+        System.out.println(" phy : " + marks[48]);
         System.out.println(" chem : " + marks[10]);
         System.out.println(" math : " + marks[28]);
         
