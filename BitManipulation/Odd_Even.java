@@ -14,8 +14,8 @@ public class Odd_Even {
     }
     public static void main(String[] args) {
         oddOrEven(7);
-        oddOrEven(17);
-        oddOrEven(16);
+        oddOrEven(21);
+        oddOrEven(18);
         
     }
     
