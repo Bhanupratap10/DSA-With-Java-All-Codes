@@ -19,7 +19,7 @@ public class Reverse_arrays {
 
     }
     public static void main(String[] args) {
-        int numbers[] = {2, 4, 6, 8, 10};
+        int numbers[] = {2, 4, 6, 8, 10, 12, 14};
          
         reverse(numbers);
 
