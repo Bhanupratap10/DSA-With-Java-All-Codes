@@ -5,7 +5,7 @@ public class My_class {
     }
     public static void main(String[] args) {
         
-        System.out.println(Math.min(11,22));
+        System.out.println(Math.min(11,24));
         System.out.println(Math.max(34,32));
         System.out.println(Math.sqrt(4));
         System.out.println(Math.pow(2,3));
