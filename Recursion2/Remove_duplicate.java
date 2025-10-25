@@ -26,7 +26,7 @@ public class Remove_duplicate {
 
     public static void main(String[] args) {
         String str = "appnnacollege";
-        removeDuplicate(str, 0, new StringBuilder(""), new boolean[20]);
+        removeDuplicate(str, 0, new StringBuilder(""), new boolean[29]);
         
     }
 }
