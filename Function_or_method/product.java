@@ -5,7 +5,7 @@ public class product {
     }
 
     public static void main(String[] args) {
-        int a = 9;
+        int a = 28;
         int b = 18;
         int prod = multiply(a, b);
         System.out.println("a * b = " + prod);
