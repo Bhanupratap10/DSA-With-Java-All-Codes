@@ -5,8 +5,8 @@ public class product {
     }
 
     public static void main(String[] args) {
-        int a = 80;
-        int b = 8;
+        int a = 90;
+        int b = 89;
         int prod = multiply(a, b);
         System.out.println("a * b = " + prod);
         prod = multiply(10, 28);
