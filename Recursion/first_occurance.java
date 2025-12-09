@@ -13,7 +13,7 @@ public class first_occurance {
     }
     
     public static void main(String[] args) {
-        int arr[] = {8, 3, 6, 9, 5, 10, 5, 3, 6};
+        int arr[] = {8, 3, 6, 9, 5, 10, 5, 3};
         System.out.println(firstOccurance(arr, 5, 0));
     }
 }
