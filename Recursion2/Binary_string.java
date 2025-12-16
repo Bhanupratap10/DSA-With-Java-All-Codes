@@ -21,7 +21,7 @@ public class Binary_string {
     }
 
     public static void main(String[] args) {
-        printBinaryString(8, 0, new String());
+        printBinaryString(9, 0, new String());
         
     }
     
