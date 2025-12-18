@@ -11,17 +11,17 @@ public class Binary_string {
         }
 
         // kaam 
-
+  
         printBinaryString(n-1, 0, str+"0");
         
         if(lastPlace == 0) {
-            printBinaryString(n-1, 1, str+"1");
+            printBinaryString(n-1, 1, str+"1"); 
         }
 
     }
 
     public static void main(String[] args) {
-        printBinaryString(8, 0, new String());
+        printBinaryString(6, 0, new String());
         
     }
     
