@@ -17,8 +17,8 @@ public class ArraysCC {
 
 
         System.out.println(" phy : " + marks[97]);
-        System.out.println(" chem : " + marks[90]);
-        System.out.println(" math : " + marks[99]);
+        System.out.println(" chem : " + marks[60]);
+        System.out.println(" math : " + marks[9]);
         
       int percentage = (marks[0] + marks[1] + marks[2] ) / 3;
       System.out.println("percentage = " + percentage + "%");
