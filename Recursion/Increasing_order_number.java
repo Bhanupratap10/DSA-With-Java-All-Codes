@@ -11,7 +11,7 @@ public class Increasing_order_number {
         System.out.print(n+" ");
     }
     public static void main(String[] args) {
-        int n = 12;
+        int n = 16;
         printInc(n);
 
     }
